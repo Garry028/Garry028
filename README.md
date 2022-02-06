@@ -10,5 +10,6 @@
 - ⚡ Fun fact: Programmer + little Gamer 😎
 - 💻 Languages and Tools: HTML , CSS , C , C++ , Git.
 -  <img src="https://github-readme-stats.vercel.app/api?username=garry000">
-- 
+-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garry000)](https://github.com/anuraghazra/github-readme-stats)">
+" 
 
