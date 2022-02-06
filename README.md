@@ -8,7 +8,7 @@
 - 👨‍💻 Email - mailto:gmisal2002@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Programmer + little Gamer 😎
-- Languages and Tools: HTML , CSS , C , C++ , Git.
+- 💻 Languages and Tools: HTML , CSS , C , C++ , Git.
 - 
 - 
 
