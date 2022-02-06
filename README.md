@@ -9,6 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Programmer + little Gamer 😎
 - 💻 Languages and Tools: HTML , CSS , C , C++ , Git.
--  <img src="(https://github-readme-stats.vercel.app/api?username=anuraghazra)" >
+-  <img src="https://github-readme-stats.vercel.app/api?username=garry00">
 - 
 
