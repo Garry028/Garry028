@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Programmer + little Gamer 😎
 - 💻 Languages and Tools: HTML , CSS , C , C++ , Git.
+-  <img src="https://komarev.com/ghpvc/?username=garry000&color=dc143c">
 -  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garry000">
 -  <img src="https://github-readme-stats.vercel.app/api?username=garry000">
 -  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garry000">
--  <img src="https://komarev.com/ghpvc/?username=garry000&color=dc143c">
