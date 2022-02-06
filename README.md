@@ -4,9 +4,11 @@
 - 👯 I’m looking to collaborate on Web dev.
 - 💬 Ask me about Frontend and any tech relatedd stuff.
 - 📫 How to reach me:Twitter - @GauravMisal8 
-- linkedin ![image](https://user-images.githubusercontent.com/91176604/152674621-2befeff6-d639-42c6-98ac-43de17778bdf.png)
-- https://www.linkedin.com/in/gaurav-misal-962a01205
+- 👨‍💻 Linkedin - https://www.linkedin.com/in/gaurav-misal-962a01205
+- 👨‍💻 Email - mailto:gmisal2002@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Programmer + little Gamer 😎
+- Languages and Tools: HTML , CSS , C , C++ , Git.
+- 
 - 
 
