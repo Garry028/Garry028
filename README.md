@@ -1,4 +1,4 @@
-### Hola , I'm Garry ! 👋
+###   Hola , I'm Garry ! 👋
 - 🔭 I’m currently working on Something Amazing.
 - 🌱 I’m currently learning Frontend Devlopement.
 - 👯 I’m looking to collaborate on Web dev.
