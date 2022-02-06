@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hola , I'm Garry ! 👋
+- 🔭 I’m currently working on Something Amazing.
+- 🌱 I’m currently learning Frontend Devlopement.
+- 👯 I’m looking to collaborate on Web dev.
+- 💬 Ask me about Frontend and any tech relatedd stuff.
+- 📫 How to reach me:Twitter - @GauravMisal8 
+- linkedin - https://www.linkedin.com/in/gaurav-misal-962a01205
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Programmer + little Gamer 😎
+- 
 
-<!--
-**garry000/garry000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
