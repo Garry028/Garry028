@@ -8,7 +8,7 @@
 - 👨‍💻 Email - mailto:gmisal2002@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Programmer + little Gamer 😎
-- 💻 Languages and Tools: HTML , CSS , C , C++ , Git.
+- 💻 Languages and Tools: HTML , CSS , JS , C , C++ , Git/Git-Hub.
 -  <img src="https://komarev.com/ghpvc/?username=garry000&color=dc143c">
 -  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garry000">
 -  <img src="https://github-readme-stats.vercel.app/api?username=garry000">
