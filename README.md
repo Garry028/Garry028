@@ -1,6 +1,6 @@
 ###   Hiii , I'm Garry ! 👋
-- 🔭 I’m currently learnig React.
-- 🌱 I’m currently learning Frontend Devlopement.
+- 🔭 I’m currently learning React.
+- 🌱 Also trying understand Backend.
 - 👯 I’m looking to collaborate on Web dev.
 - 💬 Ask me about Frontend and any tech relatedd stuff.
 - 📫 How to reach me:Twitter - @GauravMisal8 
