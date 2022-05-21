@@ -1,4 +1,4 @@
-###   Hola , I'm Garry ! 👋
+###   Hiii , I'm Garry ! 👋
 - 🔭 I’m currently learnig React.
 - 🌱 I’m currently learning Frontend Devlopement.
 - 👯 I’m looking to collaborate on Web dev.
