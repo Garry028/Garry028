@@ -1,5 +1,6 @@
 ###   Hiii , I'm Garry ! 👋
-![one_piece-luffy](https://user-images.githubusercontent.com/91176604/171561557-2cfe2dde-33df-4fdd-81b4-6aa5de205522.gif)
+
+![luffy-monkey-d-luffy](https://user-images.githubusercontent.com/91176604/171561646-5c48383f-582f-4b2b-9454-d87016a06053.gif)
 
 - 🔭 I’m currently learning React.
 - 🌱 Also trying to understand Backend.
