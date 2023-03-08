@@ -1,8 +1,8 @@
 <p align="center">
- <img align="center" width="700" src="https://foodaddiction.com/wp-content/uploads/2021/03/animated-presentation-software-header.gif">
+<!--  <img align="center" width="700" src="https://foodaddiction.com/wp-content/uploads/2021/03/animated-presentation-software-header.gif"> -->
 </p>
 
-<h1 align="center">Hi 👋, I'm Garry</h1>
+<h1 align="">Hi 👋, I'm Garry</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@gauravmisal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gauravmisal8" height="30" width="40" /></a>
