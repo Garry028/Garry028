@@ -24,10 +24,10 @@ const MySelf = {
 <a href="https://twitter.com/@gauravmisal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gauravmisal8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-misal-962a01205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-misal-962a01205" height="30" width="40" /></a>
 <a href="https://instagram.com/gmisal2002@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gmisal2002@gmail.com" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/garry000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="garry000" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Garry028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="garry000" height="30" width="40" /></a>
 
 </p>
-<img src="https://komarev.com/ghpvc/?username=garry000&color=dc143c">
+<img src="https://komarev.com/ghpvc/?username=Garry028&color=dc143c">
 
 
 <p>
