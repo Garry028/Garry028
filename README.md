@@ -10,8 +10,8 @@ const MySelf = {
  Name: "Gaurav Misal",
  programmingSkills: {
     clientSoftware: ["HTML","CSS", "JavaScript", "Tailwind-Css", "React.js", "Redux.js","Next.js"],
-    serverSoftware: ["Node.js","Strapi"],
-    programming_lang: ["Javascript","C","Python","Java","Cpp"]
+    serverSoftware: ["Go lang","Node.js","Strapi"],
+    programming_lang: ["Javascript","C","Python","Java","Cpp","Go lang"]
     Tools & IDE: ["Vscode","Git"]
   },
   languages: ["Hindi", "English","Marathi"],
