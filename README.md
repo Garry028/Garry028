@@ -26,13 +26,4 @@ const MySelf = {
 <a href="https://instagram.com/gmisal2002@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gmisal2002@gmail.com" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Garry028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="garry000" height="30" width="40" /></a>
 
-</p>
-<img src="https://komarev.com/ghpvc/?username=Garry028&color=dc143c">
-
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garry028">
-<img src="https://github-readme-stats.vercel.app/api?username=Garry028">
-
-</p>
 
