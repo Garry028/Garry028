@@ -6,7 +6,7 @@
 <p><em> Frontend developer 👨‍💻</em></p>
 
 ```javascript
-const MySelf = {
+let MySelf = {
  Name: "Gaurav Misal",
  programmingSkills: {
     clientSoftware: ["HTML","CSS", "JavaScript", "Tailwind-Css", "React.js", "Redux.js","Next.js"],
