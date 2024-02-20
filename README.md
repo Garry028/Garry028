@@ -10,7 +10,7 @@ let MySelf = {
  Name: "Gaurav Misal",
  programmingSkills: {
     clientSoftware: ["HTML","CSS", "JavaScript", "Tailwind-Css", "React.js", "Redux.js","Next.js"],
-    serverSoftware: ["Go lang","Node.js","Strapi"],
+    serverSoftware: ["Go lang","Node.js"],
     programming_lang: ["Javascript","C","Python","Java","Cpp","Go lang"]
     Tools & IDE: ["Vscode","Git"]
   },
