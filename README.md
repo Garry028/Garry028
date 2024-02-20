@@ -9,9 +9,10 @@
 let MySelf = {
  Name: "Gaurav Misal",
  programmingSkills: {
-    clientSoftware: ["HTML","CSS", "JavaScript", "Tailwind-Css", "React.js", "Redux.js","Next.js"],
+    clientSoftware: ["HTML","CSS", "JavaScript", "Tailwind-Css", "React.js", "Vue.js" ,"Pinia","Next.js"],
     serverSoftware: ["Go lang","Node.js"],
     programming_lang: ["Javascript","C","Python","Java","Cpp","Go lang"]
+    familiar: ["Electron.js","Express.js","SEO","Redux"]
     Tools & IDE: ["Vscode","Git"]
   },
   languages: ["Hindi", "English","Marathi"],
